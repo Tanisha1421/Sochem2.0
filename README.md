@@ -1,1 +1,1 @@
-# Sochem2.0
+#### Go inside the sochem2.0 directory

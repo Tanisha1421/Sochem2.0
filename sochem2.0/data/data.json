@@ -1,0 +1,94 @@
+{
+  "eventsCarousel": [
+    {
+      "url": "/images/3.jpg"
+    },
+    {
+      "url": "/images/2.jpg"
+    }
+  ],
+  "familyCarousel": [
+    {
+      "url": "/images/img-20220731-185354-1@2x.png"
+    },
+    {
+      "url": "/images/3.jpg"
+    }
+
+  ],
+  
+  "navbarElements": [
+    {
+      "id": 1,
+      "title": "Home",
+      "href": "/home"
+    },
+    {
+      "id": 2,
+      "title": "Events",
+      "href": "/events"
+    },
+    {
+      "id": 3,
+      "title": "Funds",
+      "href": "/funds"
+    },
+    {
+      "id": 4,
+      "title": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "id": 5,
+      "title": "Family",
+      "href": "/family"
+    }
+  ],
+  "eventsCard": [
+    {
+      "id": 1,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 2,
+      "title": "Festivals",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 3,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 4,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 5,
+      "title": "Festivals",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 6,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 7,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 8,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": 9,
+      "title": "Osmoze",
+      "description": "lorem ipsum"
+    }
+  ]
+}
